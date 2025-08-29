@@ -63,4 +63,4 @@ pip install tensorflow matplotlib
 
 Run the notebook in Jupyter / VS Code
 
-✨ End of Task 3 – Neur
+✨ End of Task 3.
